@@ -2,5 +2,10 @@
     "title":"随意嘚啵嘚",
     "subTitle":"Trotz der Menschenmenge ist jeder still und einsam.-Franz Kafka",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "startSite":"25/12/2024",
+    "onePageListNum":10,
+    "i18n":"CN",
+    "UTC":8,
+    "needComment":1
 }
